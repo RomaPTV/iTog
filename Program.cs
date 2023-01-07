@@ -21,5 +21,5 @@ string numrec(int a,int b)
     else return string.Empty;
 }
 
-Console.WriteLine(Num (1,20));
-Console.WriteLine(numrec (1,20));
+Console.WriteLine(Num (1,8));
+Console.WriteLine(numrec (1,8));
